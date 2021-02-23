@@ -9,8 +9,8 @@
     // Tipo boolean
     $aprobado = "true";
 
-    echo $numero
+    echo $numero;
 
     // Para conocer el tipo de dato
-    var_dump($numero)
+    var_dump($numero);
 ?>
